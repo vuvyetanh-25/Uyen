@@ -11,6 +11,6 @@ const CONFIG = {
     reply: 'Thêm cái THƠM nữa được chưaaa <3333333333333333333333333333',
     mess: 'được 🥰. Yêu Uyên nhiều nhiều 😘😘',
     messDesc: 'Uyên nhớ giữ lời hứa đó 🥰.',
-    btnAccept: 'Okiiiii lun <3',
+    btnAccept: 'Okiiiii lun, Uyên hứa <3',
     messLink: 'https://www.facebook.com/vuvietanh.isme/' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
